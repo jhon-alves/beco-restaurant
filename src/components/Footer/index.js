@@ -58,7 +58,7 @@ function Footer() {
         <div className="social-media-wrapper">
           <div className="footer-logo">
             <Link to="/" className="social-logo">
-              BECO
+            <i className="fas fa-expand-arrows-alt"></i> BECO
             </Link>
           </div>
 

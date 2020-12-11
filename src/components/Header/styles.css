@@ -19,6 +19,11 @@
   max-width: 1500px;
 }
 
+.fa-expand-arrows-alt {
+  padding-right: 10px;
+  font-size: 27px;
+}
+
 .navbar-logo {
   color: #fff;
   display: flex;

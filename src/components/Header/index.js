@@ -13,7 +13,7 @@ function Header() {
     <div className="header">
       <div className="navbar-container">
         <Link to="/" className="navbar-logo">
-          BECO
+        <i className="fas fa-expand-arrows-alt"></i> BECO
         </Link>
 
         <div className="menu-icon" onClick={handleClick}>
