@@ -1,5 +1,7 @@
 # Beco Restaurant
 
+![Screenshot](Beco-Layout.png)
+
 ### Instalação
 
 Você precisará ter apenas o NodeJS instalado na sua máquina, e após isso, clonar este repositório:
